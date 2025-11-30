@@ -3,7 +3,6 @@
 Este projeto gera automaticamente uma **escala semanal de turnos** usando:
 
 - **MIP (Mixed Integer Programming)** com o solver **PuLP**, quando disponível.
-- **Heurística gulosa**, caso o solver MIP não esteja instalado.
 
 O sistema produz:
 - **4 arquivos CSV** contendo resultados detalhados.
